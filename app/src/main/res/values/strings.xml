@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Limonada</string>
+    <string name="lemon_tree_message">Toque no limoeiro para escolher um limão</string>
+    <string name="lemon_message">Continue apertando o limão para espremê-lo</string>
+    <string name="glass_of_lemonade_message">Toque na limonada para bebê-la</string>
+    <string name="empty_glass_message">Toque no copo vazio para fazer outra limonada</string>
+</resources>
